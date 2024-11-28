@@ -1,0 +1,172 @@
+Summary,Issue key,Issue id,Project name,Assignee,Components,abstract
+"Stab 4_IM,CPP,COP LoBs_Line category typelist values for ClaimCost/Indemnity reserve values are displayed incorrectly",XXX-34126,213310.0,ANIC P&C Migration,Martin,ClaimCenter,"**Defect Summary:**
+
+**Title:** Incorrect Display of Line Category Values for Reserve Values
+
+**Affected LoBs:** Stab 4_IM,CPP,COP
+
+**Description:** Line category values for ClaimCost/Indemnity reserve values are displayed inaccurately.
+
+**Search Keywords:**
+
+* Defect
+* Reserve
+* Value
+* Display
+* Line category
+* ClaimCost
+* Indemnity
+* Stab 4_IM
+* CPP
+* COP"
+Auto > For few cases description Fields are not updating properly from Policy Level to the Covered Symbol Screen.,XXX-34125,213309.0,ANIC P&C Migration,Williams,PolicyCenter,**Defect Summary:** Update issue with description fields in Covered Symbol Screen from Policy Level.
+Stab4_Rating_GL_Cancellation_Manuscript Premium is NOT displayed during Flat cancellation in Cost change detail tab.,XXX-34124,213308.0,ANIC P&C Migration,Peter,PolicyCenter,Rating GL account is missing for flat cancellation in cost change detail tab.
+Jasper CE - Orange Boarder line is not available on the prompts.,YYY-16552,213307.0,ANIC WC Migration,Williams,Jasper,"Element: Prompt
+Issue: Orange border line unavailable"
+Jasper PE - Policy Review screen OCL checkbox are displayed incorrectly,YYY-16551,213306.0,ANIC WC Migration,Williams,Digital,"Defective Screen: Jasper PE - Policy Review screen
+Defective Element: OCL checkbox
+Defect Description: OCL checkbox displayed incorrectly"
+"Jasper CE - Filling a claim is always displaying ""Possibly duplicate claim"" message.",YYY-16550,213304.0,ANIC WC Migration,Williams,Jasper,"Jasper CE: Filling Claim - ""Possibly Duplicate Claim"""
+"Stab4_XXX-31562-CPP_CP+Crime -Renewal- - Limit value should  increased based on the Inflation guard selected on Blanket screen and building screen,Occupancy And Personal Property-not working ",XXX-34122,213303.0,ANIC P&C Migration,Martin,PolicyCenter,"**Defect Summary:**
+
+* **Defect ID:** Stab4_XXX-31562
+* **Feature:** CPP+Crime
+* **Sub-Feature:** Renewal
+* **Module:** Occupancy and Personal Property
+* **Issue:** Limit value not increasing correctly based on inflation guard selected on Blanket and Building screens."
+Stab4_PC_MEL_NewSubmission - User able to quote the policy without giving Minimum Premium value in line cov screen,XXX-34119,213300.0,ANIC P&C Migration,Williams,PolicyCenter,**Defect Summary:** Stab4_PC_MEL_NewSubmission - Absence of minimum premium value requirement for quoting a policy in the line coverage screen
+Stab4_PC_CP_Renewal_Inflation guard set on blanket during submission is not applied during Renewal,XXX-34118,213299.0,ANIC P&C Migration,Martin,PolicyCenter,Guard set on blanket during initial purchase not applied during renewal.
+Jasper BC QA01 env_Documents are not getting generated under Account-->Documents Screen,YYY-16549,213296.0,ANIC WC Migration,Williams,BillingCenter,"Defect Summary Pattern:
+Defect in {Component Name} {Defect Environment} - {Defect Description}"
+PROD | GWCM Stage to EDW balance failure | 08/08,BBB-8080,213290.0,EDW Production Operations,Williams,,"**Defect Summary:**
+
+* **Application:** PROD
+* **Defect Type:** Balance Failure
+* **Stage:** GWCM to EDW
+* **Date:** 08/08"
+"Stab4_Integ_Medicare Reporting_The Delete Record is not getting created, upon updating the Compensability status to Denied.",YYY-16548,213289.0,ANIC WC Migration,Martin,Integrations,"**Defect Summary:**
+
+**Defect ID:** Stab4_Integ_Medicare Reporting
+
+**Defect Description:** The Delete Record is not generated when the Compensability status is updated to Denied during the Medicare reporting process."
+BC should have sent the Rescind Cancellation to ESB for 24AWS13156,ZZZ-1449,213263.0,BillingCenter,Williams,BillingCenter,**Defect Summary:** Rescind Cancellation not sent to ESB for 24AWS13156
+Stab4_CC_Incident Limit is not displayed on Personal Property Coverage,XXX-34097,213260.0,ANIC P&C Migration,John,ClaimCenter,Missing Display: Coverage Limit (Stab4_CC_Incident Limit) on Personal Property Coverage
+"PE Submission for CA Generating an error message ""The Selected underwriting company (XYC Crop Premier Insurance Company) is not valid for all the states in the policy. ",EEE-1853,213258.0,PolicyCenter,Williams,ProducerEngage,"**Defect Summary:**
+
+Policy Evaluation (PE) submission fails due to ineligible underwriting company for specific states within the policy."
+CLM00054 - WCIRB RBBBrt Validations 6.30.2024- Because of switching of States,BBB-8078,213256.0,EDW Production Operations,Martin,,"Defect ID: CLM00054
+Description: Validation issue related to WCIRB RBBBrt
+Date: 6.30.2024
+Root Cause: State switching"
+"Invalid Quote was generated, unable to Rewrite",EEE-1852,213255.0,PolicyCenter,Williams,PolicyCenter,Quote Invalidation with Rewrite Failure
+UAT1 - Correct Form # IM 7420 Storage Location Coverage,XXX-34096,213254.0,ANIC P&C Migration,Martin,PolicyCenter,UAT1 - Form Correctness: Storage Location Coverage (IM 7420)
+MedicalBillFeedIndicator - Not Populated As Expected,BBB-8077,213253.0,EDW Production Operations,David,,"Defect Summary: Medical Bill Feed Indicator Missing or Incorrect
+
+Defect Description:
+Medical Bill Feed Indicator is not populated or populated incorrectly during data extraction process, resulting in errors or inconsistencies in data analysis and reporting."
+Stab3-CA7 Audit: Commercial Auto Enhancement Endorsement Coverages and its respective premiums should be displayed during Premium Report as with proration as per Reporting Period.,XXX-34095,213252.0,ANIC P&C Migration,Peter,PolicyCenter,"**Defect Summary:**
+
+Premium report for Commercial Auto Enhancement Endorsements does not correctly display coverages and premiums with prorations for the specified reporting period."
+Stab3_CA7 Vehicle Import: Primary Class Code & Few Other details are getting reset to None for the Trucks imported through Vehicle Import/Export functionality when Location is changed for those respective Vehicles.,XXX-34094,213251.0,ANIC P&C Migration,Martin,PolicyCenter,"Defect Summary:
+Vehicle Import: Truck data resets to ""None"" when Location is changed, including Primary Class Code and other details."
+"UAT1 - IM 7155 Sched of Coverages - Riggers Coverage and IM 7156 Riggers Legal Liability Coverage: UI is missing Deposit Premium and Minimum Premium, also dropdown in Manual Premium does not display all options",XXX-34089,213246.0,ANIC P&C Migration,Williams,PolicyCenter,"Missing parameters and dropdown options in UAT1 for IM 7155 and IM 7156:
+- Deposit Premium and Minimum Premium are missing.
+- Dropdown options for Manual Premium are incomplete."
+PROD| GL Paid Loss â€“ 10 records got errored out| 08/07,BBB-8074,213242.0,EDW Production Operations,Martin,,"Defect: GL Paid Loss
+Impact: 10 records failed processing
+Date: 08/07
+Environment: PROD"
+UAT1 - Correct Form # IM 7419 Fraud and Deceit Limitation,XXX-34088,213240.0,ANIC P&C Migration,Martin,PolicyCenter,Defect: UAT1 - Incorrect Form # for Fraud and Deceit Limitation
+Generation Updates for State.LossAdjustmentFeePercentage and UnitAtRisk.USLHFeePercentage,BBB-8073,213239.0,EDW Production Operations,David,,"**Defect Summary:**
+
+Update generation issues with percentage fields for:
+- State.LossAdjustmentFeePercentage
+- UnitAtRisk.USLHFeePercentage"
+Stab4_PC_MEL_NewSubmission - Waiver of Our Right to Recover from Others Endorsement condition cov term issue,XXX-34087,213238.0,ANIC P&C Migration,Williams,PolicyCenter,"**Defect Summary:**
+
+* **Policy:** Stab4_PC_MEL
+* **Issue:** Endorsement condition coverage term issue
+* **Summary:** Waiver of the right to recover damages from other parties not properly endorsed onto the policy."
+ Stab4-  XXX-31569_CPP_Crime +GL_Policychange_mid term _invalid quote,XXX-34086,213237.0,ANIC P&C Migration,Williams,PolicyCenter,"Defect ID: XXX-31569
+Application: Stab4
+Defect Type: CPP_Crime
+Defect Subtype: GL_Policychange_mid term _invalid quote"
+Prod| AL_UW_RES job failed on 08/07,BBB-8072,213236.0,EDW Production Operations,Williams,,"Defect Type: Job Failure
+Environment: Production
+Job Name: AL_UW_RES
+Failure Date: 08/07"
+ccst_claim : having error in Cpmicreateuserid_Ext,XXX-34085,213235.0,ANIC P&C Migration,Williams,Claims Conversion,Defect Summary: ccst_claim error in Cpmicreateuserid_Ext function
+ccst_activity : error in Cpmicreateuserid_Ext,XXX-34084,213233.0,ANIC P&C Migration,Williams,Claims Conversion,"**Defect Summary:**
+* Component: ccst_activity
+* Defect: error in Cpmicreateuserid_Ext"
+"PE: Submission Intake, rollback 2407 code",GGG-1478,213232.0,GW Cloud Digital,Williams,,"Product Engine: Submission Intake, code rollback (2407)"
+Stab4_Rating_GeneralLiability-PolicyChange-> Flat premiums are not getting prorated,XXX-34083,213231.0,ANIC P&C Migration,Peter,Rating,Flat premium prorating issue in Stab4_Rating_GeneralLiability-PolicyChange
+UAT1 - Correct Form # IM 7418 Breakage Limitation,XXX-34082,213230.0,ANIC P&C Migration,Martin,PolicyCenter,Defect Summary: UAT1 - Breakage limitation fix for form IM 7418
+"PE: Policy Summary page, Cancellation Date and Reason not on the same line",GGG-1477,213229.0,GW Cloud Digital,Williams,,"Defect Summary: UI Issue
+
+Defect Description: Policy Summary page has Cancellation Date and Reason displayed on separate lines."
+PE/CE: Payroll Reporting Sorting incorrectly,GGG-1476,213228.0,GW Cloud Digital,Williams,,Payroll Reporting: Sorting Defect (PE/CE)
+Stab4 BC QA06env_Premium Deferral functionality-'Invoices are released from hold before submitting the Final Audit',XXX-34081,213227.0,ANIC P&C Migration,David,BillingCenter,"Defect Summary:
+- Module: Stab4 BC QA06env_Premium
+- Defect Type: Deferral functionality
+- Description: Invoices are released from hold before submitting the Final Audit"
+Stab 4_XXX-31555-CPP_CP+Crime +GL--Policy: View button not displayed-as not able to open doc in  QA6,XXX-34080,213226.0,ANIC P&C Migration,David,SmartCOMM,"Defect Summary: Policy view button not visible in QA6 environment, hindering document accessibility."
+"Update ANIC Agency Lookup Table (ANICAgencyMapping) - Agencies A80, D50",BBB-8071,213225.0,EDW Production Operations,Williams,,"**Defect Summary:**
+
+**Affected System:** ANICAgencyMapping (ANIC Agency Lookup Table)
+
+**Defective Agencies:** A80, D50
+
+**Action Required:** Update ANICAgencyMapping table to correct information for these agencies."
+Stab4-  XXX-31548_CPP_Crime +GL_-Policy change for mid -term policy getting invalid quote in QA6,XXX-34079,213224.0,ANIC P&C Migration,Williams,PolicyCenter,Policy change for mid-term policy results in an invalid quote in QA6 for Stab4-  XXX-31548_CPP_Crime +GL-.
+UAT1 - Correct Form # IM 7360 Breakage Endorsement,XXX-34078,213222.0,ANIC P&C Migration,Martin,PolicyCenter,"Defect Type: UAT Form Defect
+Defect Description: Form breakage issue with IM 7360 Breakage Endorsement"
+Jasper CE - FNOL Additional information page throwing error prompt upon routing back to previous screen with an added party on additional information page.,YYY-16546,213221.0,ANIC WC Migration,Williams,Jasper,Defect in Jasper CE: Routing back to the previous screen in FNOL after adding a party on the additional information page results in an error prompt.
+Stab4_PC_PolicyChange_CP 1034 form should not trigger,XXX-34077,213219.0,ANIC P&C Migration,Martin,PolicyCenter,Stab4 Policy Change form (CP 1034) should not auto-trigger.
+Stab4_PC_PolicyChange_CP 530 form not triggered,XXX-34076,213218.0,ANIC P&C Migration,David,PolicyCenter,Defect Summary: Failure to trigger Stab4_PC_PolicyChange_CP 530 form
+"Stab4_PC_CU_Validation error is not throwing on adding WC internal policy with maritmine coverage with limit < 500,000",XXX-34075,213217.0,ANIC P&C Migration,Williams,PolicyCenter,"Invalid WC policy limit error on Stab4_PC_CU_Validation - policy limit cannot be less than 500,000 for maritime coverage"
+ODS_DetailCoverage AU Nonowned - INTSEC : Missing records in the ODS_DetailCoverage for AU Nonowned flow. ,AAA-6073,213216.0,AAA,Williams,,"**Defect Summary:**
+
+* **Defect Type:** ODS_DetailCoverage Missing Records
+* **Flow:** AU Nonowned - INTSEC
+* **Description:** Absence of records in the ODS_DetailCoverage table for the AU Nonowned - INTSEC flow."
+UAT1 - Occ/Agg Limits not showing on Risks screen for Flood/Earthquake when Blanket applies,XXX-34074,213214.0,ANIC P&C Migration,Peter,,"**Defect Summary: Access to Field**
+
+**Description:** Specific data cannot be accessed on a particular page when certain conditions are met.
+
+**Fields:** Occ/Agg Limits
+
+**Page:** Risks screen
+
+**Condition:** Flood/Earthquake risk assessment with Blanket policy"
+Stab4_Rating_Commercial Package_Renewal: Getting Invalid Quote during Renewal with Rules Mod value indicating Null in Partial Worksheet,XXX-34073,213212.0,ANIC P&C Migration,Williams,Rating,"**Defect Summary:**
+
+* **Product:** Stab4_Rating_Commercial Package_Renewal
+* **Issue:** Invalid quotes generated during renewal
+* **Symptom:** Rules Modification (Mod) value set to Null in Partial Worksheet
+* **Error:** Partial Worksheet not updated with correct Mod value
+
+**Keywords:**
+
+* Renewal
+* Invalid quotes
+* Rules Modification Null
+* Partial Worksheet"
+Stab 4_CC_All Lobs_Catastrophe_Perils Value Mismatch for Losstype Auto/property/Liability in Catastrophe Admin screen,XXX-34072,213211.0,ANIC P&C Migration,Martin,ClaimCenter,"**Defect Summary:**
+
+Defect ID: Stab 4_CC
+Module: Catastrophe Admin
+Sub-Module: All Lobs
+
+**Description:**
+
+Value mismatch for Loss Type in Catastrophe Admin screen. Specifically, the value for Loss Type in Auto/Property/Liability is incorrect."
+QA environment - Invalid quote issue occured during policy change ,YYY-16545,213208.0,ANIC WC Migration,Williams,Jasper,**Defect Summary:** Invalid quote issue in QA environment during policy change
+IM 7205 01 12 & IM 7207 01 12 Commercial Inland Marine - Electronic Data Processing: Scheduled items are not mapped in the payload,XXX-34071,213207.0,ANIC P&C Migration,Williams,Forms Mapping,"Defect Summary:
+Defect ID: IM 7205 01 12 & IM 7207 01 12
+Category: Commercial Inland Marine - Electronic Data Processing
+Description: Scheduled items are not mapped in the payload."
+Class codes applied to submission not displayed in Quote screen or QPAKT,MMM-1234,,,,,Class codes assigned to a submission are missing in the Quote screen and QPAKT.
+Class codes 987 not displayed in Quote screen or QPAKT,BBB-4321,,,,,"Defect Summary: Display Issue
+
+Defect Details: Class codes with code 987 are not visible in the Quote screen or QPAKT due to a display issue."
