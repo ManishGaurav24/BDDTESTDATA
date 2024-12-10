@@ -112,16 +112,16 @@ function showBDDJiraInput() {
     }
 }
 function showDefectJiraInput(){
-    defectJiraInfoMessage.innerHTML = `<b>What Is This About :</b>
-        <i>Transform your user stories into BDD feature file scenarios seamlessly using Jira.</i>
-        <br>
-        <b>How To Use:</b>
-        <ol>
-            <li>Enter the required Jira details.</li>
-            <li>Click on the <button class="btn btn-danger">Generate Defect From Jira</button> button to generate Defect scenarios.</li>
-            <li>Our Gen AI engine will then generate Defect scenarios based on your user stories.</li>
-            <li>After the scenarios are generated, click on the <button class="btn btn-dark">Download</button> button to save the Defect scenario Excel file to your device.</li>
-        </ol>`;
+    defectJiraInfoMessage.innerHTML = `<b>What Is This About:</b>
+<i>Analyze recurring issues from your Jira tickets seamlessly with the help of GenAI.</i>
+<br>
+<b>How To Use:</b>
+<ol>
+    <li>Enter the required Jira details.</li>
+    <li>Click on the <button class="btn btn-danger">Detect Pattern</button> button to analyze Jira issues.</li>
+    <li>Our GenAI engine will process the Jira data to identify and highlight past recurring issues.</li>
+    <li>After the analysis is complete, click on the <button class="btn btn-dark">Download</button> button to save the detailed analysis report to your device.</li>
+</ol>`;
         if (!defectJiraInputDisplayed) {
             defectJiraInput.style.display = 'block';
             bddJiraInput.style.display = 'none';
