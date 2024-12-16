@@ -123,10 +123,9 @@ async def generating_defect(issues):
             <context>
             Question: Given the following context, find all issues that have the same meaning as this {input}.
             For each issue, check if the relevance score is greater than 0.6.
-            Return the Issue Key, Summary, Project name, Assignee, Components and input.
-            Ensure that you return at least two such issues if they exist. 
+            Return the Issue Key, Summary, Project name, Assignee, Components and input. 
             Output the results in CSV format with the following columns: Input, Issue Key, Summary,Project name, Assignee and Components.
-            If the answer cannot be found in context, just politely say that you do not know, do not try to make up an answer.
+            If no similar defects are found, return the Input along with "Not Found" in all other fields.
             """
         )
         
